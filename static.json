@@ -1,9 +1,9 @@
 {
-  "encoding": "UTF-8",
-  "headers":{
-    "/*":{
-      "X-Author": "Войтенко, Игорь Александрович",
-      "Access-Control-Allow-Origin": "*"
-    }
-  }
+"headers":{
+"/*":{
+"X-Author": "Войтенко, Игорь Александрович",
+"Access-Control-Allow-Origin":"*"
+}
+}
+
 }
