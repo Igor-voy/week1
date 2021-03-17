@@ -18,9 +18,9 @@
     }
   },
   "routes": {
-    "/login/": "/login.txt",
-    "/sample/": "/sample.txt",
-    "/promise/": "/promise.txt",
+    "/login/": "/login.html",
+    "/sample/": "/sample.html",
+    "/promise/": "/promise.html",
     "/fetch/": "/fetch.html"
   }
 }
